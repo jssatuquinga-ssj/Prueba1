@@ -13,7 +13,7 @@ if not os.path.exists(archivo):
     st.stop()
 
 st.title("Modelo Hidrológico - Embalse Salve Faccha")
-st.subheader("Visualización de resultados del modelo mejorado de 8 subcuencas")
+st.subheader("Visualización de resultados del modelo mejorado de 8 subcuencas BHSF")
 
 # Leer hojas Excel
 try:
